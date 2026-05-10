@@ -1,0 +1,13 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/recognition/page.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0zfm2wp._.js")
+R.c("server/chunks/ssr/node_modules_next_dist_esm_build_templates_app-page_0z6rguj.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0w4cqq.._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__00mujn-._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__11t690l._.js")
+R.c("server/chunks/ssr/node_modules_next_dist_client_components_0inhx6q._.js")
+R.c("server/chunks/ssr/node_modules_next_dist_client_components_builtin_forbidden_0ghu-f7.js")
+R.c("server/chunks/ssr/node_modules_next_dist_client_components_builtin_unauthorized_0cjv-23.js")
+R.c("server/chunks/ssr/node_modules_next_dist_client_components_builtin_global-error_0lgvd_..js")
+R.c("server/chunks/ssr/_next-internal_server_app_recognition_page_actions_0jlg4wh.js")
+R.m(33858)
+module.exports=R.m(33858).exports
